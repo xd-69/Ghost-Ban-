@@ -1,2 +1,1 @@
-# Ghost-Ban-
-Banir whatsapp etc...
+
